@@ -1,0 +1,9 @@
+.course-area {
+    width: 69%;
+    display: flex;
+    float: left;
+}
+.cart {
+    width: 5%;
+    float: left;
+}
